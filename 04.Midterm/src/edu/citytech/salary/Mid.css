@@ -1,0 +1,44 @@
+.titlelbl{
+    -fx-font-size: 40px;
+    -fx-alignment: center;
+    
+ 
+}
+ 
+ 
+.ancBox {
+-fx-border-color:black;
+-fx-min-width: 130px;
+-fx-min-height: 130px;
+-fx-border-insets: .55px;
+-fx-background-color: rgb(138, 138, 138);
+ 
+}
+
+.anc1{
+-fx-color: rgb(0, 0, 0);
+
+
+}
+
+.btnProcess{
+    -fx-color: rgb(32, 167, 61);
+
+
+
+}
+
+ .btnReset{
+    -fx-color: rgb(109, 2, 16);
+
+
+
+}
+
+.ans{
+    -fx-font-size: 16px;
+}
+
+.innerlabels{
+    -fx-font-size: 18px;
+}
